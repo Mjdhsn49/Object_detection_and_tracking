@@ -1,3 +1,13 @@
 # Object_detection_and_tracking
 
-### Follow the two reports to know how to run and main report to see the results.
+Object detection and tracking using deep learning techniques.
+
+## Dependecies
+* PyQT
+* opencv
+* numpy
+
+## Run
+
+* Run the main.py file.
+* follow the how to run the code report.
